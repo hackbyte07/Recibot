@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896414683913",
+    "project_id": "recibot-7e93d",
+    "storage_bucket": "recibot-7e93d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896414683913:android:12d4db5a25d05965b7b9d8",
+        "android_client_info": {
+          "package_name": "com.hackbyte.recibot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896414683913-j54tdui85n34p4rqpnf053qqgfeuhc2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackbyte.recibot",
+            "certificate_hash": "b6fcfa29fbbf9fa6776a709c8b0be36c08a178bf"
+          }
+        },
+        {
+          "client_id": "896414683913-papmcsbdkiu4v11qka012l2b4bjjp7kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFjriZeod02Sa6NpWm0liGLDjc3D7geyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896414683913-papmcsbdkiu4v11qka012l2b4bjjp7kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
